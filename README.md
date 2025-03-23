@@ -1,4 +1,4 @@
-# 🏢 Employee Management System (EMS)
+# 🏢 EmpTrack - EMS portal
 
 ## 📌 Overview
 The **Employee Management System (EMS)** is a React-based web application designed to streamline employee task management. It provides an **admin panel** for managing employees and assigning tasks, while employees can track their **new, active, completed, and failed tasks** in a structured manner.
