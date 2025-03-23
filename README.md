@@ -17,7 +17,14 @@ The **Employee Management System (EMS)** is a React-based web application design
 - **UI Components:** ShadCN UI  
 
 ## 🖼️ Screenshots
-*(Add screenshots here if available)*
+### Admin Dashboard
+![Admin Panel](screenshots/admin-dashboard.png)
+
+### Employee Dashboard
+![Employee Dashboard](screenshots/employee-dashboard.png)
+
+### Task Management View
+![Task Management](screenshots/task-management.png)
 
 ## 📺 Installation & Setup
 ```bash
